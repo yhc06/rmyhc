@@ -4,3 +4,6 @@
 abc
 def
 ghi
+A
+B
+C
